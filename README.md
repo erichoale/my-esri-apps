@@ -44,3 +44,11 @@
 
 ![closed roads 1](https://github.com/user-attachments/assets/1ccf2827-4798-427f-be07-9378a4c19e19)
 (Real‑time map displaying current road closures, helping staff and the public stay informed about access restrictions, maintenance activity, and detour planning.)
+
+
+<img width="1908" height="907" alt="image" src="https://github.com/user-attachments/assets/42d8f3de-4f3e-4172-a62c-5cf6218058da" />
+<img width="1903" height="905" alt="image" src="https://github.com/user-attachments/assets/713a224c-55a6-459b-81cd-07bc2bc79992" />
+<img width="829" height="828" alt="image" src="https://github.com/user-attachments/assets/54f14047-ed6f-4a52-ba15-f423d738769c" />
+<img width="846" height="890" alt="image" src="https://github.com/user-attachments/assets/ce8a44a2-14c0-4ea2-923f-19380d38c58b" />
+
+
